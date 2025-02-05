@@ -1,4 +1,4 @@
 {
-"update":"2",
+"update":"1",
 "showstatus":"AunNoLlegamos"
 }
