@@ -1,5 +1,4 @@
 {
-"ncllegada":"YaLlegamos",
-"ncno":"AunNo",
- "nc":"true"
+"update":"1",
+"showstatus":"AunNoLlegamos"
 }
