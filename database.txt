@@ -1,5 +1,5 @@
 {
 "ncllegada":"YaLlegamos",
 "ncno":"AunNo",
- "nc":"1"
+ "nc":"true"
 }
