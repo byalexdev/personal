@@ -1,5 +1,6 @@
 {
 "update":"0.0.1",
+"title":"New update available!"
 "message":"Update the app for new features, quality improvements, and bug fixes.",
-"showstatus":"AunNoLlegamos"
+"download":"https://google.com"
 }
