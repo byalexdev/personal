@@ -1,0 +1,5 @@
+{
+"update":"0.0.1",
+"message":"Update the app for new features, quality improvements, and bug fixes.",
+"showstatus":"AunNoLlegamos"
+}
